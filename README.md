@@ -12,9 +12,7 @@ My Hackpad features a 3d printed case for the PCB that houses 8 Keyswitches, 3 S
 **BILL OF MATERIALS:**
 | Reference            | Qty | Value                | DNP | Exclude from BOM | Exclude from Board | Footprint                                                     | Datasheet                                                                  |
 | -------------------- | --- | -------------------- | --- | ---------------- | ------------------ | ------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| D1,D2,D3,D4,D5,D6,D7 | 7   | Diode                |     |                  |                    | ScottoKeebs_Components:Diode_DO-35                            |                                                                            |
-| DLED1,DLED2          | 2   | SK6812MINI           |     |                  |                    | LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm                | https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf |
-| J1                   | 1   | OLED_128x32          |     |                  |                    | 0.91 OLED Display:SSD1306-0.91-OLED-4pin-128x32               |                                                                            |
+| DLED1,DLED2,DLED3          | 3   | SK6812MINI           |     |                  |                    | LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm                | https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf |
 | S1,S2,S3,S4,S5,S6,S7,S8    | 8  | Keyswitch            |     |                  |                    | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                 | ~                                                                          |
 | U1                   | 1   | XIAO-RP2040-DIP      |     |                  |                    | Seeed Studio XIAO Series Library:XIAO-RP2040-DIP              |                                                                            |
 
@@ -29,8 +27,7 @@ My Hackpad features a 3d printed case for the PCB that houses 8 Keyswitches, 3 S
 ***And the screenshots...***
 
 SCHEMATIC:
-
-<img width="1378" height="944" alt="Screenshot 2026-02-01 at 9 28 21 AM" src="https://github.com/user-attachments/assets/c28e4a28-2476-4ebb-a4de-0a9ba1458735" />
+<img width="1427" height="847" alt="Screenshot 2026-02-01 at 11 57 50 AM" src="https://github.com/user-attachments/assets/b929cc6c-e459-453a-97f7-5c1db93e93b5" />
 
 PCB:
 <img width="1191" height="919" alt="Screenshot 2026-01-31 at 9 34 10 PM" src="https://github.com/user-attachments/assets/6f411b88-0ced-4ef8-a5d7-7861b66d14d6" />
