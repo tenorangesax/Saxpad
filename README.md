@@ -18,12 +18,6 @@ My Hackpad features a 3d printed case for the PCB that houses 8 Keyswitches, 3 S
 | U1                   | 1   | XIAO-RP2040-DIP      |     |                  |                    | Seeed Studio XIAO Series Library:XIAO-RP2040-DIP              |                                                                            |
 
 
-**THE FILES:**
-- KMK Firmware
-- Top Case.stl 
-- Bottom Case.stl
-
-
 
 ***And the screenshots...***
 
