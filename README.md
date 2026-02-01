@@ -1,5 +1,5 @@
 # The Modded Hackpad™
-This is the repo for my Modded Hackpad™, a test project to learn a bit before commiting to the R.A.P.
+This is the repo for my Modded Hackpad™, a test project to learn a bit before commiting to the R.A.P. It was my first time to ever do something like this, and took me a long time, but I'm proud of it.
 
 *****THE FINISHED PRODUCT!!!*****
 <img width="1323" height="831" alt="Screenshot 2026-02-01 at 11 45 08 AM" src="https://github.com/user-attachments/assets/d43bf16d-f523-46ff-bab1-98baa8875162" />
