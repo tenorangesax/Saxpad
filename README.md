@@ -32,7 +32,7 @@ PCB:
 <img width="1062" height="724" alt="Screenshot 2026-02-07 at 5 47 20 PM" src="https://github.com/user-attachments/assets/e8f58522-c0a3-4907-8e69-9cdb65453f8a" />
 <img width="1062" height="724" alt="Screenshot 2026-02-07 at 5 47 27 PM" src="https://github.com/user-attachments/assets/aeabbb0f-abba-4714-acf8-6ad5cd1c097e" />
 
-<img width="1081" height="628" alt="Modded_Hackpad_Final" src="https://github.com/user-attachments/assets/61f65d6d-e315-4c75-96b5-b5283b1614c2" />
+<img width="1081" height="628" alt="Modded_Hackpad_Final" src="https://github.com/user-attachments/assets/64999e5f-f571-448d-a8d1-13f1093a7427" />
 <img width="1081" height="628" alt="Modded_Hackpad_Final_Back" src="https://github.com/user-attachments/assets/60e5dfa3-77b0-45ac-9c69-d784cd114064" />
 
 CASE:
