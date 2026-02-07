@@ -29,7 +29,9 @@ SCHEMATIC:
 <img width="979" height="810" alt="Screenshot 2026-02-07 at 10 30 16 AM" src="https://github.com/user-attachments/assets/dc8bbabe-85d7-447f-8e2d-cb5755d142ba" />
 
 PCB:
-<img width="1292" height="909" alt="Screenshot 2026-02-07 at 10 31 02 AM" src="https://github.com/user-attachments/assets/17987163-ccca-483c-adc5-19b59331ed6c" />
+<img width="1062" height="724" alt="Screenshot 2026-02-07 at 5 47 20 PM" src="https://github.com/user-attachments/assets/e8f58522-c0a3-4907-8e69-9cdb65453f8a" />
+<img width="1062" height="724" alt="Screenshot 2026-02-07 at 5 47 27 PM" src="https://github.com/user-attachments/assets/aeabbb0f-abba-4714-acf8-6ad5cd1c097e" />
+
 <img width="1081" height="628" alt="Modded_Hackpad_Final" src="https://github.com/user-attachments/assets/61f65d6d-e315-4c75-96b5-b5283b1614c2" />
 <img width="1081" height="628" alt="Modded_Hackpad_Final_Back" src="https://github.com/user-attachments/assets/60e5dfa3-77b0-45ac-9c69-d784cd114064" />
 
