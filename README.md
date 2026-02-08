@@ -2,7 +2,7 @@
 This is the repo for my Saxpad™, a test project to learn a bit before commiting to the R.A.P. It was my first time to ever do something like this, and took me a long time, but I'm proud of it.
 It is a shortcut pad with a bare-bones design to show off all the (very cool) internals.
 
-*****THE FINISHED PRODUCT!!!*****
+*THE FINISHED PRODUCT!!!*
 <img width="1062" height="724" alt="Screenshot 2026-02-07 at 4 16 23 PM" src="https://github.com/user-attachments/assets/464f48f8-c45f-48ec-84dc-586e9078e78c" />
 
 
@@ -21,7 +21,7 @@ My Hackpad features a 3d printed case for the PCB that houses a XIAO-RP2040-DIP 
 | S1,S2,S3,S4          |  4  | MX-Style switches (Keyswitch)|        |                |                    | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB                 | ~                                                                          |
 | (Not in schematic)   | 4   | White Blank DSA keycaps|     |                |                    | (Not in schematic)                                            | ~                                                                          |
 | U1                   | 1   | XIAO-RP2040-DIP      |     |                  |                    | Seeed Studio XIAO Series Library:XIAO-RP2040-DIP              |                                                                            |
-| (Not in schematic)   | 1   | 3D Printed Case (2 parts, top and bottom case, yellow prefered)    |     |                  |                    | (not in schematic)           |                                                                            |
+| (Not in schematic)   | 1   | 3D Printed Case (2 parts, top and bottom case, sunset yellow prefered)    |     |                  |                    | (not in schematic)           |                                                                            |
 
 
 ***And the screenshots...***
