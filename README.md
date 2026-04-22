@@ -2,7 +2,14 @@
 This is the repo for my Saxpad™, a test project to learn a bit before commiting to the R.A.P. It was my first time to ever do something like this, and took me a long time, but I'm proud of it.
 It is a shortcut pad with a bare-bones design to show off all the (very cool) internals.
 
+[WATCH THE DEMO VIDEO HERE!!!](https://youtube.com/shorts/sdoI10d_KeA?feature=share)
+
 ****THE FINISHED PRODUCT!!!****
+
+<img width="3024" height="4032" alt="IMG_7150" src="https://github.com/user-attachments/assets/5e849d15-1bf4-46e0-b990-7d8400b04cfd" />
+<img width="3024" height="4032" alt="IMG_7149" src="https://github.com/user-attachments/assets/9ae7f2ff-9677-48da-a836-3bfd1c0de3fc" />
+<img width="4032" height="2268" alt="IMG_7087" src="https://github.com/user-attachments/assets/d38057c7-c5d5-46cd-b907-f4f9900127d0" />
+
 <img width="1062" height="724" alt="Screenshot 2026-02-07 at 4 16 23 PM" src="https://github.com/user-attachments/assets/464f48f8-c45f-48ec-84dc-586e9078e78c" />
 
 
